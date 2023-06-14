@@ -3,8 +3,7 @@
 </div>
 
 <p>
-
-<img width="48%"  src="https://github-readme-stats.vercel.app/api?username=otamurod2003&theme=radical&show_icons=true&&locale=en" alt="otamurod2003" />
+ <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=otamurod2003&theme=radical&hide_border=false&count_private=true&show_icons=true">
 <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=otamurod2003&theme=radical" alt="otamurod2003" />
 </p>
 
