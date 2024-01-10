@@ -5,6 +5,8 @@
 
 <p>
  <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=otamurod2003&theme=radical&hide_border=false&count_private=true&show_icons=true">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=otamurod2003" alt="GitHub Streak" />
+
 
 </p>
 
